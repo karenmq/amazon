@@ -1,0 +1,36 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    background-color: #232f3e;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    padding: 20px;
+}
+
+.banner {
+    background-color: black;
+    padding: 20px;
+}
+
+.blue-text {
+    color: #146eb4;
+}
+
+.button {
+    background-color: #dfaa2b;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.container {
+    margin: 40px 20px 40px 20px;
+}
